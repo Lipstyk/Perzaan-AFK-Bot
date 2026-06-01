@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "BrosSMP_Anarchy.aternos.me:19440",
+    "port": 19440,
     "version": "1.21.1"
   },
   "position": {
